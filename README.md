@@ -49,7 +49,7 @@ I am a final-year undergraduate student at **Hanoi University of Science and Tec
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **AI/ML** | PyTorch, YOLOv11, OpenCV, TensorRT, MediaPipe |
-| **IoT/Embedded** | ESP32, Jetson Nano, MQTT, Web Serial API, UART |
+| **IoT/Embedded** | ESP32, MQTT, Web Serial API, UART |
 | **Backend/Cloud** | FastAPI, Docker, Apache Kafka, Redis, PostgreSQL |
 | **Languages** | Python, C++, TypeScript, JavaScript |
 
