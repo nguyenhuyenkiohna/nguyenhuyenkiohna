@@ -10,8 +10,6 @@
 ### 🎓 Summary
 I am a final-year undergraduate student at **Hanoi University of Science and Technology (HUST)**, specializing in Artificial Intelligence and IoT. My research interests lie at the intersection of **Computer Vision**, **Edge AI**, and **Distributed Systems**. 
 
-* 🔬 **Research Member:** AIoT Lab - SoICT, HUST.
-* ✈️ **Upcoming:** Summer Research Intern at **University of Wyoming** (July 2026).
 * 🌐 **Goal:** Pursuing advanced research in scalable Edge AI and Smart City solutions.
 
 ---
@@ -37,7 +35,7 @@ I am a final-year undergraduate student at **Hanoi University of Science and Tec
 - **Architecture:** Optimized with **TensorRT** for edge deployment; metadata storage via **Redis** and **PostgreSQL**.
 - **Messaging:** Integrated **Apache Kafka** for seamless data streaming between detection nodes and backend.
 
-#### [Serial Commander](https://github.com/nguyenhuyenkiohna/serial-commander)
+#### [Serial Commander](https://github.com/nguyenhuyenkiohna)
 > *Web-based UART/Serial communication platform.*
 - Built with **React** and **TypeScript**, utilizing the **Web Serial API** for direct hardware interaction via browser.
 
@@ -47,11 +45,13 @@ I am a final-year undergraduate student at **Hanoi University of Science and Tec
 
 ---
 
-### 📈 Technical Metrics
-<p align="left">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=nguyenhuyenkiohna&show_icons=true&theme=flat&hide_border=true" />
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuyenkiohna&layout=compact&theme=flat&hide_border=true" />
-</p>
+### 🛠 Core Tech Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI/ML** | PyTorch, YOLOv11, OpenCV, TensorRT, MediaPipe |
+| **IoT/Embedded** | ESP32, Jetson Nano, MQTT, Web Serial API, UART |
+| **Backend/Cloud** | FastAPI, Docker, Apache Kafka, Redis, PostgreSQL |
+| **Languages** | Python, C++, TypeScript, JavaScript |
 
 ---
 
