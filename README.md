@@ -1,4 +1,4 @@
-# Nguyen Huyen (Huyen Nguyen)
+# Nguyen Huyen 
 **Hanoi University of Science and Technology** | School of Information and Communication Technology (SoICT)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huyen-nguyen-2b0337260/)
