@@ -1,14 +1,18 @@
 # Nguyen Huyen (Huyen Nguyen)
-Hanoi University of Science and Technology | School of Information and Communication Technology (SoICT)
+**Hanoi University of Science and Technology** | School of Information and Communication Technology (SoICT)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/huyen-nguyen-2b0337260/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:nguyenthithuhuyen613@@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Hanoi,%20Vietnam-lightgrey?style=flat-square)](https://maps.google.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/huyen-nguyen-2b0337260/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:nguyenthithuhuyen613@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Hanoi,%20Vietnam-lightgrey?style=flat-square)](https://www.google.com/maps/place/Hanoi+University+of+Science+and+Technology)
 
 ---
 
 ### 🎓 Summary
 I am a final-year undergraduate student at **Hanoi University of Science and Technology (HUST)**, specializing in Artificial Intelligence and IoT. My research interests lie at the intersection of **Computer Vision**, **Edge AI**, and **Distributed Systems**. 
+
+* 🔬 **Research Member:** AIoT Lab - SoICT, HUST.
+* ✈️ **Upcoming:** Summer Research Intern at **University of Wyoming** (July 2026).
+* 🌐 **Goal:** Pursuing advanced research in scalable Edge AI and Smart City solutions.
 
 ---
 
@@ -20,9 +24,8 @@ I am a final-year undergraduate student at **Hanoi University of Science and Tec
 - **Data Engineering:** Designing pipelines with Apache Kafka, Redis, and PostgreSQL.
 
 #### 🔌 Internet of Things (IoT)
-- **Hardware:** ESP32, various sensor integrations.
-- **Protocols:** MQTT, Web Serial API, UART/Serial communication.
-- **Backend:** FastAPI, JWT Authentication, MongoDB.
+- **Hardware & Protocols:** ESP32, MQTT, Web Serial API, UART/Serial communication.
+- **Full-stack & Backend:** FastAPI (Python), React (TypeScript), MongoDB, JWT Authentication.
 
 ---
 
@@ -34,7 +37,7 @@ I am a final-year undergraduate student at **Hanoi University of Science and Tec
 - **Architecture:** Optimized with **TensorRT** for edge deployment; metadata storage via **Redis** and **PostgreSQL**.
 - **Messaging:** Integrated **Apache Kafka** for seamless data streaming between detection nodes and backend.
 
-#### [Serial Commander](https://github.com/nguyenhuyenkiohna)
+#### [Serial Commander](https://github.com/nguyenhuyenkiohna/serial-commander)
 > *Web-based UART/Serial communication platform.*
 - Built with **React** and **TypeScript**, utilizing the **Web Serial API** for direct hardware interaction via browser.
 
@@ -44,10 +47,14 @@ I am a final-year undergraduate student at **Hanoi University of Science and Tec
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 Technical Metrics
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguyenhuyenkiohna&show_icons=true&theme=vivid_gradient&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuyenkiohna&layout=compact&theme=vivid_gradient&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=nguyenhuyenkiohna&show_icons=true&theme=flat&hide_border=true" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuyenkiohna&layout=compact&theme=flat&hide_border=true" />
 </p>
 
 ---
+
+<p align="center">
+  <i>"Passionate about bridging the gap between Deep Learning research and real-world Edge AI applications."</i>
+</p>
