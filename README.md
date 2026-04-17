@@ -20,7 +20,7 @@ I am a final-year undergraduate student at **Hanoi University of Science and Tec
 - **Data Engineering:** Designing pipelines with Apache Kafka, Redis, and PostgreSQL.
 
 #### 🔌 Internet of Things (IoT)
-- **Hardware:** ESP32, Jetson Nano, Raspberry Pi, various sensor integrations.
+- **Hardware:** ESP32, various sensor integrations.
 - **Protocols:** MQTT, Web Serial API, UART/Serial communication.
 - **Backend:** FastAPI, JWT Authentication, MongoDB.
 
@@ -51,8 +51,3 @@ I am a final-year undergraduate student at **Hanoi University of Science and Tec
 </p>
 
 ---
-
-### 🌐 Beyond Coding
-- Preparing for **DiscoverNUS** (AY2026-27) exchange program at National University of Singapore.
-- Active member at **AIoT Lab - HUST**, collaborating on distributed machine learning research.
-- Competitive Programming & LeetCode enthusiast.
