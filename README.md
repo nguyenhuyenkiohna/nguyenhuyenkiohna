@@ -1,8 +1,8 @@
 # Nguyen Huyen (Huyen Nguyen)
 Hanoi University of Science and Technology | School of Information and Communication Technology (SoICT)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/huyen-nguyen-2b0337260/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:nguyenthithuhuyen613@@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Hanoi,%20Vietnam-lightgrey?style=flat-square)](https://maps.google.com)
 
 ---
