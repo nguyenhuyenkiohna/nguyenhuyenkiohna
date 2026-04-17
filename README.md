@@ -8,10 +8,7 @@ Hanoi University of Science and Technology | School of Information and Communica
 ---
 
 ### 🎓 Summary
-I am a final-year undergraduate student at **Hanoi University of Science and Technology (HUST)**, specializing in Artificial Intelligence and IoT. My research interests lie at the intersection of **Computer Vision**, **Edge AI**, and **Distributed Systems**. Currently, I am a member of the **AIoT Lab**, working on high-performance video analytics frameworks.
-
-* **Upcoming:** Summer Research Intern @ **University of Wyoming** (Jul 2026 - Aug 2026)
-* **Focus:** Developing scalable Edge AI solutions for Smart City infrastructure.
+I am a final-year undergraduate student at **Hanoi University of Science and Technology (HUST)**, specializing in Artificial Intelligence and IoT. My research interests lie at the intersection of **Computer Vision**, **Edge AI**, and **Distributed Systems**. 
 
 ---
 
